@@ -1,0 +1,1 @@
+include ':app', ':test', ':zxing', ':degreeapp', ':guidelib', ':rxjavaapp', ':scratchviewapp', ':dropsofwater', ':progressbartest', ':highlightpb', ':glidetest', ':pbtest', ':charttest', ':MPChartLib', ':lib', ':laucherview', ':transitionhelper', ':rxjava2test', ':recyclerviewtest', ':coordinatorlayouttest'

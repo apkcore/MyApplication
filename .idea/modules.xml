@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MPChartLib/MPChartLib.iml" filepath="$PROJECT_DIR$/MPChartLib/MPChartLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/charttest/charttest.iml" filepath="$PROJECT_DIR$/charttest/charttest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coordinatorlayouttest/coordinatorlayouttest.iml" filepath="$PROJECT_DIR$/coordinatorlayouttest/coordinatorlayouttest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/degreeapp/degreeapp.iml" filepath="$PROJECT_DIR$/degreeapp/degreeapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dropsofwater/dropsofwater.iml" filepath="$PROJECT_DIR$/dropsofwater/dropsofwater.iml" />
+      <module fileurl="file://$PROJECT_DIR$/glidetest/glidetest.iml" filepath="$PROJECT_DIR$/glidetest/glidetest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guidelib/guidelib.iml" filepath="$PROJECT_DIR$/guidelib/guidelib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/highlightpb/highlightpb.iml" filepath="$PROJECT_DIR$/highlightpb/highlightpb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/laucherview/laucherview.iml" filepath="$PROJECT_DIR$/laucherview/laucherview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/lib.iml" filepath="$PROJECT_DIR$/lib/lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pbtest/pbtest.iml" filepath="$PROJECT_DIR$/pbtest/pbtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/progressbartest/progressbartest.iml" filepath="$PROJECT_DIR$/progressbartest/progressbartest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerviewtest/recyclerviewtest.iml" filepath="$PROJECT_DIR$/recyclerviewtest/recyclerviewtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxjava2test/rxjava2test.iml" filepath="$PROJECT_DIR$/rxjava2test/rxjava2test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxjavaapp/rxjavaapp.iml" filepath="$PROJECT_DIR$/rxjavaapp/rxjavaapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scratchviewapp/scratchviewapp.iml" filepath="$PROJECT_DIR$/scratchviewapp/scratchviewapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transitionhelper/transitionhelper.iml" filepath="$PROJECT_DIR$/transitionhelper/transitionhelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zxing/zxing.iml" filepath="$PROJECT_DIR$/zxing/zxing.iml" />
+    </modules>
+  </component>
+</project>
