@@ -6,7 +6,6 @@
       <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/charttest/charttest.iml" filepath="$PROJECT_DIR$/charttest/charttest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/coordinatorlayouttest/coordinatorlayouttest.iml" filepath="$PROJECT_DIR$/coordinatorlayouttest/coordinatorlayouttest.iml" />
       <module fileurl="file://$PROJECT_DIR$/degreeapp/degreeapp.iml" filepath="$PROJECT_DIR$/degreeapp/degreeapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/dropsofwater/dropsofwater.iml" filepath="$PROJECT_DIR$/dropsofwater/dropsofwater.iml" />
       <module fileurl="file://$PROJECT_DIR$/glidetest/glidetest.iml" filepath="$PROJECT_DIR$/glidetest/glidetest.iml" />
